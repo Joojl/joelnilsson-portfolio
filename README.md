@@ -1,134 +1,66 @@
-# Personal Portfolio & Tools Collection
+# Joel Nilsson Portfolio
 
-A modern, responsive personal website showcasing my skills as a Verification and Integration Engineer, along with useful utility scripts.
+A professional portfolio website showcasing my skills, experience, and projects as a Verification & Integration Engineer in the defense industry.
 
-## 📋 Contents
+## Technologies Used
 
-- [Portfolio Website](#portfolio-website)
-- [Utility Scripts](#utility-scripts)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- HTML5, CSS3, JavaScript
+- Responsive design with CSS Grid and Flexbox
+- Font Awesome for icons
+- Google Fonts (Poppins, Space Mono)
+- Intersection Observer API for scroll animations
+- GitHub Pages for hosting
 
-## 🌐 Portfolio Website
+## Features
 
-A modern, dark-themed portfolio site showcasing my professional experience, skills, and projects. The website includes:
+### 1. About Section
+Provides an overview of my professional background, including my experience as a Verification & Integration Engineer with expertise in software testing and integration.
 
-- Responsive design with mobile-first approach
-- Dark/Light mode toggle
-- Multilingual support (English, German, Swedish)
-- Interactive UI elements with smooth animations
-- Contact form functionality
-- GitHub and LinkedIn integration
-- Project showcase section (prepared for future projects)
+### 2. Skills Section
+Highlights my technical competencies including:
+- System Integration
+- Test Automation
+- Requirements Analysis
+- Software Verification
+- Technical Documentation
+- Cross-functional Collaboration
 
-## 🧰 Utility Scripts
+### 3. Projects Section
+Showcases key projects while maintaining confidentiality:
+- AI-Enhanced Verification Systems
+- Secure System Integration
+- Advanced Test Automation Frameworks
 
-### Age Calculator (`age_calculator.sh`)
+### 4. Contact Section
+Professional contact information and social media links.
 
-A bash utility script that calculates the time difference between a given date and the current date in various units:
+## Setup and Deployment
 
-- Months
-- Weeks
-- Days
-- Hours
-- Minutes
-- Seconds
+### Local Development
+1. Clone the repository
+   ```
+   git clone https://github.com/Joojl/joelnilsson-portfolio.git
+   ```
+2. Open index.html in your browser
+3. Make changes as needed
 
-#### Example Usage:
-```bash
-./age_calculator.sh 19930819
-```
+### Deployment
+This portfolio is deployed using GitHub Pages:
+1. Push changes to the main branch
+   ```
+   git add .
+   git commit -m "Update portfolio"
+   git push origin main
+   ```
+2. Access the live site at [https://joojl.github.io/joelnilsson-portfolio](https://joojl.github.io/joelnilsson-portfolio)
 
-## 🔧 Installation
+## Contact
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Joojl/Joojl.github.io.git
-cd Joojl.github.io
-```
-
-2. No additional dependencies needed for basic functionality. The website runs on vanilla HTML, CSS, and JavaScript.
-
-## 🚀 Usage
-
-### Portfolio Website
-
-Simply open `index.html` in your browser to view the website locally:
-```bash
-open index.html
-```
-
-### Age Calculator
-
-1. Make the script executable (if not already):
-```bash
-chmod +x age_calculator.sh
-```
-
-2. Run the script with a date in YYYYMMDD format:
-```bash
-./age_calculator.sh 20000101
-```
-
-## 📤 Deployment
-
-The portfolio website is deployed using GitHub Pages:
-
-1. Push changes to the repository's `main` branch:
-```bash
-git add .
-git commit -m "Your commit message"
-git push origin main
-```
-
-2. The website will automatically deploy to: `https://Joojl.github.io`
-
-## 💻 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bash scripting
-- Git & GitHub
-- GitHub Pages
-
-## ✨ Features
-
-### Portfolio Website
-- Responsive design works on all devices
-- Theme switching with smooth transitions
-- Multi-language support
-- Form validation with useful error messages
-- GitHub activity integration
-- Professional space-themed design
-- SEO-friendly structure
-
-### Age Calculator
-- Precise calculations using bash date functions
-- Input validation
-- Multiple time unit conversions
-- User-friendly output formatting
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
-3. Commit your Changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the Branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+For any inquiries, please reach out via:
+- LinkedIn: [Joel Nilsson](https://linkedin.com/in/joelnilsson)
+- GitHub: [Joojl](https://github.com/Joojl)
+- Email: joel.nilsson@example.com
 
 ---
 
-Created by [Joojl](https://github.com/Joojl)
-
+© 2025 Joel Nilsson. All rights reserved.
